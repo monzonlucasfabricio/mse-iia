@@ -1,0 +1,3 @@
+[submodule "lib/intro_ia"]
+	path = lib/intro_ia
+	url = https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/intro_ia.git
