@@ -10,6 +10,7 @@ source .venv/bin/activate
 # Instalar ipykernel dentro del entorno virtual
 pip3 install ipykernel
 
+
 # # Desactivar el entorno virtual
 deactivate
 
